@@ -16,7 +16,7 @@ sudo apt-get update && sudo apt-get install -y curl
 ---
 - WSL Ubuntu、服务器版Ubuntu、桌面版Ubuntu 通用一键编译openwrt命令
 ```sh
-bash <(curl -fsSL git.io/local.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/YLEDE/bendi/main/local.sh)
 ```
 #
 ---
